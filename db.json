@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "brazil-light",
+      "name": "برازيلي شقرا",
+      "origin": "brazil",
+      "roast": "light",
+      "image": "/images/bag-light.jpg",
+      "notes": "خفيفة بنكهة مكسرات وحلاوة ناعمة",
+      "prices": {
+        "250": 8,
+        "500": 15,
+        "1000": 28
+      },
+      "cardamom": true,
+      "featured": false
+    },
+    {
+      "id": "brazil-medium",
+      "name": "برازيلي وسط",
+      "origin": "brazil",
+      "roast": "medium",
+      "image": "/images/bag-medium.jpg",
+      "notes": "متوازنة، كراميل وشوكولا",
+      "prices": {
+        "250": 8,
+        "500": 15,
+        "1000": 28
+      },
+      "cardamom": true,
+      "featured": true
+    },
+    {
+      "id": "brazil-dark",
+      "name": "برازيلي غامق",
+      "origin": "brazil",
+      "roast": "dark",
+      "image": "/images/bag-dark.jpg",
+      "notes": "قوية بنكهة كاكاو ومرارة خفيفة",
+      "prices": {
+        "250": 8,
+        "500": 15,
+        "1000": 28
+      },
+      "cardamom": true,
+      "featured": true
+    },
+    {
+      "id": "colombia-light",
+      "name": "كولومبي شقرا",
+      "origin": "colombia",
+      "roast": "light",
+      "image": "/images/bag-light.jpg",
+      "notes": "منعشة بحموضة فواكه وزهور",
+      "prices": {
+        "250": 10,
+        "500": 19,
+        "1000": 36
+      },
+      "cardamom": true,
+      "featured": true
+    },
+    {
+      "id": "colombia-medium",
+      "name": "كولومبي وسط",
+      "origin": "colombia",
+      "roast": "medium",
+      "image": "/images/bag-medium.jpg",
+      "notes": "ناعمة بنكهة كراميل وتفاح",
+      "prices": {
+        "250": 10,
+        "500": 19,
+        "1000": 36
+      },
+      "cardamom": true,
+      "featured": false
+    },
+    {
+      "id": "colombia-dark",
+      "name": "كولومبي غامق",
+      "origin": "colombia",
+      "roast": "dark",
+      "image": "/images/bag-dark.jpg",
+      "notes": "غنية بنكهة شوكولا غامقة",
+      "prices": {
+        "250": 10,
+        "500": 19,
+        "1000": 36
+      },
+      "cardamom": true,
+      "featured": false
+    }
+  ],
+  "beans": [
+    {
+      "id": "brazil",
+      "name": "برازيلي",
+      "pricePerGram": 0.032,
+      "notes": "ناعم وحلو، بنكهة مكسرات وشوكولا"
+    },
+    {
+      "id": "colombia",
+      "name": "كولومبي",
+      "pricePerGram": 0.04,
+      "notes": "متوازن ومنعش، بنكهة كراميل وفواكه"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "name": "رنا",
+      "text": "ريحة القهوة عبّت البيت أول ما فتحت الكيس.",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "محمد",
+      "text": "الغامقة مع زيادة هيل صارت قهوة الصبح عندي.",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "name": "لين",
+      "text": "جربت الشقرا بالـ V60، طعمها نظيف وخفيف.",
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "name": "أحمد",
+      "text": "عملت خلطتي الخاصة، وطلعت متل ما بدي بالضبط.",
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "name": "سارة",
+      "text": "الطلب عالواتساب كان سريع وسهل.",
+      "rating": 5
+    },
+    {
+      "id": "6",
+      "name": "عمر",
+      "text": "الكولومبي الوسط بالموكا خطيرة.",
+      "rating": 4
+    }
+  ],
+  "suggestions": []
+}
