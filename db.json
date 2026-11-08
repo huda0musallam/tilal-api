@@ -5,7 +5,7 @@
       "name": "برازيلي شقرا",
       "origin": "brazil",
       "roast": "light",
-      "image": "/images/bag-light.jpg",
+      "image": "/images/bag-light.webp",
       "notes": "خفيفة بنكهة مكسرات وحلاوة ناعمة",
       "prices": {
         "250": 8,
@@ -20,7 +20,7 @@
       "name": "برازيلي وسط",
       "origin": "brazil",
       "roast": "medium",
-      "image": "/images/bag-medium.jpg",
+      "image": "/images/bag-medium.webp",
       "notes": "متوازنة، كراميل وشوكولا",
       "prices": {
         "250": 8,
@@ -35,7 +35,7 @@
       "name": "برازيلي غامق",
       "origin": "brazil",
       "roast": "dark",
-      "image": "/images/bag-dark.jpg",
+      "image": "/images/bag-dark.webp",
       "notes": "قوية بنكهة كاكاو ومرارة خفيفة",
       "prices": {
         "250": 8,
@@ -50,7 +50,7 @@
       "name": "كولومبي شقرا",
       "origin": "colombia",
       "roast": "light",
-      "image": "/images/bag-light.jpg",
+      "image": "/images/bag-light.webp",
       "notes": "منعشة بحموضة فواكه وزهور",
       "prices": {
         "250": 10,
@@ -65,7 +65,7 @@
       "name": "كولومبي وسط",
       "origin": "colombia",
       "roast": "medium",
-      "image": "/images/bag-medium.jpg",
+      "image": "/images/bag-medium.webp",
       "notes": "ناعمة بنكهة كراميل وتفاح",
       "prices": {
         "250": 10,
@@ -80,7 +80,7 @@
       "name": "كولومبي غامق",
       "origin": "colombia",
       "roast": "dark",
-      "image": "/images/bag-dark.jpg",
+      "image": "/images/bag-dark.webp",
       "notes": "غنية بنكهة شوكولا غامقة",
       "prices": {
         "250": 10,
